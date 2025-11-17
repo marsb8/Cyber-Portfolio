@@ -144,8 +144,8 @@ Analyzed logs, extracted indicators, and created a post-incident report.
 ## 🚷 Contact & Links  
 
 📧 **Email:** [bryantmarshae8@gmail.com](mailto:<youremail>@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/<yourlinkedin>](https://linkedin.com/in/<yourlinkedin>)  
-💻 **GitHub:** [github.com/<yourgithub>](https://github.com/<yourgithub>)  
+💼 **LinkedIn:** [linkedin.com/in/<yourlinkedin>](https://linkedin.com/in/marshae-bryant/)  
+💻 **GitHub:** [github.com/<yourgithub>](https://github.com/marsb8)  
 ---
 
 ## 🗾 Disclaimer  
@@ -153,13 +153,7 @@ Analyzed logs, extracted indicators, and created a post-incident report.
 All security research and testing were conducted in **authorized environments** (labs, virtual machines, or approved CTFs).  
 All demonstrations adhere to **ethical hacking principles** and comply with laws and organizational policies.  
 
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<yourgithub>&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<yourgithub>&layout=compact&theme=dark)  
-
+--- 
 ---
 
 ## ⭐ Pinned Repositories  
@@ -177,7 +171,7 @@ All demonstrations adhere to **ethical hacking principles** and comply with laws
 
 - [x] Professional **About Me** section with clear career focus  
 - [x] Organized by **Projects**, **Skills**, and **Achievements**  
-- [x] Includes **Contact Links** and **GitHub Stats**  
+- [x] Includes **Contact Links**  
 - [x] All project links active and documented  
 - [x] Ethical disclaimer included  
 - [x] Clean and accessible markdown format  
